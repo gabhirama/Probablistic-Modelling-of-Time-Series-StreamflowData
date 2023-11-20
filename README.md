@@ -20,7 +20,14 @@ I have selected the Polavaram gauging site as dataset. Polavaram is significant 
 
 ### Results
 
-From these methods, while plotting the Q-Q and P-P plots we have obtained an R-squared values of 0.985 and 0.986 with p-values = 0.0 for the block maxima values.
+I have trained a GEV model with 
+-----------------------------------------------
+free parameters: loc=25589.632, scale=10273.651
+AIC: 1147.540
+loglikelihood: -571.650
+-----------------------------------------------
+
+The 100-year return level is 72849.95789780281 m³s¯¹ with the 95% confidence interval: [64398.92240662832, 80472.42385681237]
 
 ### Discussion
 
