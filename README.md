@@ -1,5 +1,5 @@
 # Probablistic-Modelling-of-Time-Series-StreamflowData
-Undertook a project focused on Probabilistic Modeling of Streamflow Data to predict the extent  of natural calamities such as Extreme Floods
+AG40215 Uncertainty Concepts in Hydrosystem Engineering Term Project under Dr. Poulomi Ganguli, Agricultural and Food Engineering, IIT Kharagpur
 
 ### Motivation
 
