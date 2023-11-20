@@ -31,6 +31,8 @@ The 100-year return level is 72849.95789780281 m³s¯¹ with the 95% confidence 
 
 ### Discussion
 
+The graphical results along with this analysis are attached as a separate folder in the main.
+
 The R-squared values you obtained are quite high (0.985 and 0.986), which indicates that the fitted model explains a large proportion of the variance in your data. This suggests that the Generalized Extreme Value (GEV) distribution is a good fit for my block maxima values.
 
 The p-values you obtained are 0.0, which is less than the commonly used significance level of 0.05. This indicates that the fit of the GEV distribution to your data is statistically significant.
